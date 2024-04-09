@@ -1,4 +1,4 @@
-# Ultimate Chicken Horse More Players
+# Disguised Ultimate Chicken Horse Tweaks
 ![ultimate chicken horse logo](https://tawk.link/637ce062b0d6371309d07b8c/kb/attachments/hwzSwKbqc2.png) ![disguised icon](https://tawk.link/637ce062b0d6371309d07b8c/kb/attachments/jxl26fMNy6.png)
 
 A mod that enables more than 4 players to play local and online in Ultimate Chicken Horse.
@@ -15,5 +15,5 @@ A mod that enables more than 4 players to play local and online in Ultimate Chic
     - Extract the zip and place the contents inside your Ultimate Chicken Horse steam game folder
     - Run game once with BepInEx installed to generate folders/files
     
-2. Install [UCHMorePlayers](https://github.com/disguised04/UCHMorePlayers/releases/latest/download/UCHMorePlayers.zip)
+2. Install [DisguisedUCHTweaks](https://github.com/disguised04/UltimateChickenHorseTweaks/releases/latest/download/DisguisedUCHTweaks.zip)
     - Extract the zip and copy the dll file into the 'plugins' folders in the BepInEx folder in the Ultimate Chicken Horse steam game folder.
